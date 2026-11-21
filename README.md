@@ -118,7 +118,7 @@ python -m uvicorn api.main:app --port 8000
 ### 3. Terminal 2: start the web app
 
 ```bash
-cd orbit_protoype/web
+cd orbit_protoype\web
 npm install
 npm run dev
 ```
