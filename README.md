@@ -1,6 +1,6 @@
 <div align="center">
 
-# Orbit Prototype
+# Orbit 
 
 ### Find a Parking Spot in Orbit
 
